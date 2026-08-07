@@ -1,6 +1,6 @@
 {
   "name": "cxgrd-marketplace",
   "plugins": [
-    { "name": "cxgrd", "source": "./plugins/cxgrd" }
+    { "name": "cxgrd-plugin", "source": "./plugins/cxgrd" }
   ]
 }

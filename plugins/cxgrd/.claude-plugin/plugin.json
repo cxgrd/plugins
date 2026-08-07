@@ -1,6 +1,18 @@
 {
-  "name": "cxgrd",
+  "name": "cxgrd-plugin",
   "description": "Blast radius analysis and merge policy enforcement for AI-assisted coding",
   "version": "0.1.0",
-  "author": { "name": "geekgod382" }
+  "author": { "name": "Manan Sharma" },
+  "source": {
+    "source": "git-subdir",
+    "url": "https://github.com/cxgrd/cxgrd-plugin.git",
+    "path": "packages/cxgrd",
+    "ref": "main"
+  },
+  "skills": [
+    "./skills/scan",
+    "./skills/blast-radius",
+    "./skills/check"
+  ],
+  "homepage": "https://github.com/cxgrd/cxgrd-plugin"
 }

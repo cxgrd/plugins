@@ -4,6 +4,12 @@
 
 This repository is the collection of SKILL.md files for Claude Code.
 
+## Installation
+
+To install this plugin on Claude Code, run : 
+
+`/plugin install cxgrd-plugin@claude-plugins-official`
+
 ## Project structure
 
 ```
