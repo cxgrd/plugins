@@ -4,12 +4,6 @@
 
 This repository is the collection of SKILL.md files for Claude Code.
 
-## Installation
-
-Run `/plugin marketplace add anthropics/claude-plugins-community` to register the marketplace
-
-Run `/plugin install cxgrd-plugin@claude-community` to install the plugin from the marketplace
-
 ## Project structure
 
 ```
