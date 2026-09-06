@@ -1,6 +1,6 @@
 # Plugin for CXGRD
 
-> In active development
+> I guess Claude rejected my plugin submit request
 
 This repository is the collection of SKILL.md files for Claude Code.
 
